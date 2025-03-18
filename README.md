@@ -1,3 +1,5 @@
 # javascript-repo-1f2v
 
-Along coach certain type.
+This is a sample project written in **Python**.
+
+Generated automatically.
