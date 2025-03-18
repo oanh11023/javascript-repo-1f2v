@@ -1,0 +1,1 @@
+// Accept news wear occur.
