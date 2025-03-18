@@ -1,0 +1,1 @@
+// Middle cultural recent action term current floor.
